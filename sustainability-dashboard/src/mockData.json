@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2025-01-01",
+    "carbon": 120,
+    "energy": 300,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-02",
+    "carbon": 140,
+    "energy": 280,
+    "air_quality": "Moderate"
+  },
+  {
+    "date": "2025-01-03",
+    "carbon": 130,
+    "energy": 310,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-04",
+    "carbon": 160,
+    "energy": 290,
+    "air_quality": "Unhealthy"
+  },
+  {
+    "date": "2025-01-05",
+    "carbon": 110,
+    "energy": 320,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-06",
+    "carbon": 150,
+    "energy": 270,
+    "air_quality": "Moderate"
+  },
+  {
+    "date": "2025-01-07",
+    "carbon": 125,
+    "energy": 330,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-08",
+    "carbon": 145,
+    "energy": 310,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-09",
+    "carbon": 155,
+    "energy": 300,
+    "air_quality": "Moderate"
+  },
+  {
+    "date": "2025-01-10",
+    "carbon": 135,
+    "energy": 295,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-11",
+    "carbon": 165,
+    "energy": 280,
+    "air_quality": "Unhealthy"
+  },
+  {
+    "date": "2025-01-12",
+    "carbon": 125,
+    "energy": 325,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-13",
+    "carbon": 140,
+    "energy": 315,
+    "air_quality": "Moderate"
+  },
+  {
+    "date": "2025-01-14",
+    "carbon": 120,
+    "energy": 330,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-15",
+    "carbon": 150,
+    "energy": 305,
+    "air_quality": "Moderate"
+  },
+  {
+    "date": "2025-01-16",
+    "carbon": 110,
+    "energy": 310,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-17",
+    "carbon": 160,
+    "energy": 285,
+    "air_quality": "Unhealthy"
+  },
+  {
+    "date": "2025-01-18",
+    "carbon": 145,
+    "energy": 300,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-19",
+    "carbon": 155,
+    "energy": 290,
+    "air_quality": "Moderate"
+  },
+  {
+    "date": "2025-01-20",
+    "carbon": 130,
+    "energy": 320,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-21",
+    "carbon": 140,
+    "energy": 310,
+    "air_quality": "Moderate"
+  },
+  {
+    "date": "2025-01-22",
+    "carbon": 125,
+    "energy": 330,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-23",
+    "carbon": 150,
+    "energy": 275,
+    "air_quality": "Moderate"
+  },
+  {
+    "date": "2025-01-24",
+    "carbon": 120,
+    "energy": 290,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-25",
+    "carbon": 170,
+    "energy": 280,
+    "air_quality": "Unhealthy"
+  },
+  {
+    "date": "2025-01-26",
+    "carbon": 125,
+    "energy": 330,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-27",
+    "carbon": 135,
+    "energy": 310,
+    "air_quality": "Moderate"
+  },
+  {
+    "date": "2025-01-28",
+    "carbon": 150,
+    "energy": 300,
+    "air_quality": "Good"
+  },
+  {
+    "date": "2025-01-29",
+    "carbon": 140,
+    "energy": 315,
+    "air_quality": "Moderate"
+  },
+  {
+    "date": "2025-01-30",
+    "carbon": 160,
+    "energy": 275,
+    "air_quality": "Unhealthy"
+  }
+]
